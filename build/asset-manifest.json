@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/govies-react/static/css/main.70ffce7b.chunk.css",
+    "main.js": "/govies-react/static/js/main.0c3fce59.chunk.js",
+    "main.js.map": "/govies-react/static/js/main.0c3fce59.chunk.js.map",
+    "runtime-main.js": "/govies-react/static/js/runtime-main.67f086b8.js",
+    "runtime-main.js.map": "/govies-react/static/js/runtime-main.67f086b8.js.map",
+    "static/css/2.cc249a1f.chunk.css": "/govies-react/static/css/2.cc249a1f.chunk.css",
+    "static/js/2.8a33d074.chunk.js": "/govies-react/static/js/2.8a33d074.chunk.js",
+    "static/js/2.8a33d074.chunk.js.map": "/govies-react/static/js/2.8a33d074.chunk.js.map",
+    "index.html": "/govies-react/index.html",
+    "static/css/2.cc249a1f.chunk.css.map": "/govies-react/static/css/2.cc249a1f.chunk.css.map",
+    "static/css/main.70ffce7b.chunk.css.map": "/govies-react/static/css/main.70ffce7b.chunk.css.map",
+    "static/js/2.8a33d074.chunk.js.LICENSE.txt": "/govies-react/static/js/2.8a33d074.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/govies-react/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/govies-react/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/image-3.063578d5.jpg": "/govies-react/static/media/image-3.063578d5.jpg",
+    "static/media/image-4.8e6539e8.png": "/govies-react/static/media/image-4.8e6539e8.png",
+    "static/media/video-1.053994fc.m4v": "/govies-react/static/media/video-1.053994fc.m4v",
+    "static/media/video-3.3f2f22d5.mp4": "/govies-react/static/media/video-3.3f2f22d5.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f086b8.js",
+    "static/css/2.cc249a1f.chunk.css",
+    "static/js/2.8a33d074.chunk.js",
+    "static/css/main.70ffce7b.chunk.css",
+    "static/js/main.0c3fce59.chunk.js"
+  ]
+}
